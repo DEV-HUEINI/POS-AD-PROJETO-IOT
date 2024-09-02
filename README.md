@@ -11,8 +11,11 @@ Este projeto é uma demonstração prática das habilidades adquiridas no Módul
 ## Vídeo do Projeto
 Aqui está um vídeo de demonstração que mostra todo o processo:
 
-[![Projeto IOT de Arquitetura de Dados ( Ferramentas: WIKWI PYTHON HIVEMQ INFLUXDB GRAFANA)]]([https://www.youtube.com/watch?v=eFMpne_vVa8](https://www.youtube.com/watch?v=ddNoWz2HxkU))
-
+[!
+[Projeto IOT de Arquitetura de Dados ( Ferramentas: WIKWI PYTHON HIVEMQ INFLUXDB GRAFANA)]
+(https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg)
+]
+(https://www.youtube.com/watch?v=ddNoWz2HxkU)
 
 ##
 <details open>
