@@ -22,6 +22,13 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 ---
 
+## 🖼️ Imagem do Projeto
+Aqui está uma imagem do projeto:
+
+![Imagem do Projeto](caminho/para/sua/imagem.png)
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 ### 1. 🌍 **WIKWI**
