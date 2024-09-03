@@ -3,7 +3,7 @@
 Olá, meu nome é **Hueini David**.  
 Sou formado em **Ciências da Computação** e atualmente estou cursando **Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina**.
 
-Este projeto demonstra as habilidades adquiridas no **Módulo de Arquitetura de Dados** da minha Pós-Graduação, utilizando e integrando as seguintes ferramentas:
+Este projeto demonstra as habilidades adquiridas no **Módulo de Arquitetura de Dados** utilizando e integrando as seguintes ferramentas:
 
 - 🛠️ **WIKWI**
 - 🐍 **PYTHON**
