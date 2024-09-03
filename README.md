@@ -25,7 +25,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 ## 🖼️ Imagem do Projeto
 Aqui está uma imagem do projeto:
 
-![Imagem do Projeto](caminho/para/sua/imagem.png)
+![Grafana](/DashBoarde_TemperaturaHumidade.png)
 
 ---
 
