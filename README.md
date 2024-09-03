@@ -23,7 +23,8 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 ---
 
 ## 🖼️ Imagem do Projeto
-Aqui está uma imagem do projeto:
+Você pode visualizar o painel do Grafana Cloud através do seguinte link: 
+[Painel do Grafana Cloud](https://hueini.grafana.net/public-dashboards/3980cb47b889435cb00d494502afb5c0)
 
 ![Grafana](/DashBoarde_TemperaturaHumidade.png)
 
