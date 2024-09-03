@@ -30,16 +30,10 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 Você pode visualizar o painel do Grafana Cloud através do seguinte link:
 
-[![Botão Grafana Cloud](https://img.shields.io/badge/Painel%20do%20Grafana%20Cloud-Click%20Here-brightgreen)](https://hueini.grafana.net/public-dashboards/3980cb47b889435cb00d494502afb5c0)
-
-
-## 📊 Painel do Grafana
-
-Você pode visualizar o painel do Grafana Cloud através do seguinte link:
-
 <a href="https://hueini.grafana.net/public-dashboards/3980cb47b889435cb00d494502afb5c0" target="_blank">
     <img src="https://img.shields.io/badge/Painel%20do%20Grafana%20Cloud-Click%20Here-brightgreen" alt="Botão Grafana Cloud">
 </a>
+
 
 ---
 
